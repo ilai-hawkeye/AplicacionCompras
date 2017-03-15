@@ -1,1 +1,1 @@
-Aplicación compras online 
+Aplicación compras online de Gorka
